@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\STEM-1-10\\Desktop\\GitExercise\\GitExercise.csproj": {}
+    "C:\\Users\\STEM-1-10\\Desktop\\ZadachaCalculatorGeorgieva\\GitExercise\\GitExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\STEM-1-10\\Desktop\\GitExercise\\GitExercise.csproj": {
+    "C:\\Users\\STEM-1-10\\Desktop\\ZadachaCalculatorGeorgieva\\GitExercise\\GitExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\STEM-1-10\\Desktop\\GitExercise\\GitExercise.csproj",
+        "projectUniqueName": "C:\\Users\\STEM-1-10\\Desktop\\ZadachaCalculatorGeorgieva\\GitExercise\\GitExercise.csproj",
         "projectName": "GitExercise",
-        "projectPath": "C:\\Users\\STEM-1-10\\Desktop\\GitExercise\\GitExercise.csproj",
+        "projectPath": "C:\\Users\\STEM-1-10\\Desktop\\ZadachaCalculatorGeorgieva\\GitExercise\\GitExercise.csproj",
         "packagesPath": "C:\\Users\\STEM-1-10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\STEM-1-10\\Desktop\\GitExercise\\obj\\",
+        "outputPath": "C:\\Users\\STEM-1-10\\Desktop\\ZadachaCalculatorGeorgieva\\GitExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\STEM-1-10\\AppData\\Roaming\\NuGet\\NuGet.Config",
